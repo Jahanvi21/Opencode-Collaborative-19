@@ -360,16 +360,16 @@
             "referral" : ""
         },
 	    
-	    {
-            "name"     : "Shantam Shrestha",
-			"imageurl" : "assets/img/participants/shantam.jpg",
-			"about"    : "Budding Full stack developer",
+	 {
+            "name"     : "Jahanvi21",
+			"imageurl" : "https://avatars2.githubusercontent.com/u/45903837?s=460&v=4",
+			"about"    : "love to learn!",
 			"college"  : "IIIT, Allahabad",
 			"facebook" : "",
-			"github"   : "https://github.com/shantam0810",
+			"github"   : "https://github.com/Jahanvi21",
 			"twitter"  : "",
             "referral" : ""
-	    }
+        }
    
 
     ]
